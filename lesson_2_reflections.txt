@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Use git init to initialize a repository, can .git was crested and there is no commit to the repository and any old files as marked as untracked.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Statging area contains the files ready to be committed, after the files being added from working directory. The status of the files in working directory is untracked. Staging area add the buffer before making committed to repository. 
