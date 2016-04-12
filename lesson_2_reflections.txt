@@ -15,4 +15,16 @@ When I need to experiment some changes, I can cread a branch to add all changes 
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help me to understand the relationship between different version of branches and when the changes happens 
-for each branch  
+for each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is the combined codes from two branched on the conditions:
+- All common lines will be kept
+- Any new lines will be kept
+- Any deleted lines from any branches will not be kept
+The diagram will help us to understand the changes in each branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The pros are the reduced effort.
+But there is potential lost optimazation opportunity through manual merge, as a new and better solution might be came
+out through manual process.  

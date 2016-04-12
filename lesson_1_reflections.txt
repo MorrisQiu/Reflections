@@ -19,11 +19,3 @@ This adds significant confidence to me to make changes that could break somethin
 
 Now that you have your workspace set up, what do you want to try using Git for?
 I will use Git to complete the assignment from Deep learning course.
-
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-The result is the combined codes from two branched on the conditions:
-- All common lines will be kept
-- Any new lines will be kept
-- Any deleted lines from any branches will not be kept
-
-The diagram will help us to unstand the changes in each branch. 
